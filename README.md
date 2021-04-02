@@ -40,6 +40,7 @@
 
 3. Database used.
 - Sql/MySql.
+- Mysql
 
 ### Database Creation:
 
